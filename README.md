@@ -1,2 +1,1 @@
-# ResearchInsightEngine
 # shopify-app
