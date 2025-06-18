@@ -1,1 +1,1 @@
-# shopify-app
+Start of a Shopify app repo
